@@ -2,9 +2,9 @@
 
 # Hola amigos! Here to learn as much as possible, gonna use all my "?"
 
-1. A
-2. B
-3. C
+1. Currently trying to keep up.
+2. Looking forward to do it.
+3. Ask me about how I´m hanging on.
 
 
 <!--
