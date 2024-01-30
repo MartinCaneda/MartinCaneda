@@ -1,6 +1,9 @@
 # Hola amigos!
 # Here to learn as much as possible, gonna use all my "?"
 ![alt text](sun.jpg)
+1. A
+2. B
+3. C
 
 
 <!--
