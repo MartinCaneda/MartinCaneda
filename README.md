@@ -1,4 +1,4 @@
-![alt text](yo.jpg)
+![alt text](Yo.jpg)
 
 # Hola amigos! Here to learn as much as possible, gonna use all my "?"
 
