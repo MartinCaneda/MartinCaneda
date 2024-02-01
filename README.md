@@ -1,5 +1,3 @@
-![alt text](Yo.jpg)
-
 # Hola amigos! Here to learn as much as possible, gonna use all my "?"
 
 1. Currently trying to keep up.
